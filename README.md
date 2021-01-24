@@ -1,2 +1,2 @@
-# Create React app and Tailwind only
+## Create React app and Tailwind only
 
